@@ -1,0 +1,32 @@
+# Site settings
+title: Home
+email: echarala@calpoly.edu
+
+#url: "web.calpoly.edu/"
+#baseurl: "/~echarala"
+
+# For Github:
+#url: https://echarala.github.io/
+#baseurl: /my_page
+#url: https://echarala.github.io/egcharalampidis.github.io/
+
+# For NameSilo:
+url: egcharalampidis.com
+
+# Build settings
+#markdown: kramdown
+markdown: redcarpet
+permalink: pretty
+input: GFM
+hard_wrap: true
+
+menus:
+    main:
+    - Home: /  
+    - CV: /cv/
+    - Research: /research/
+    - Teaching: /teaching/
+    - Publications: /publications/ 
+    - Talks: /talks/ 
+    - Links: /links/
+    - Hobbies: /hobbies/

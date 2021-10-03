@@ -1,0 +1,118 @@
+---
+layout: post
+title: General information about the course
+category: 143
+date: 2019-08-29 23:25:00
+---
+
+<b><b>Course text: </b></b>
+<em>Calculus: Early Transcendentals (7-th (Hybrid) Edition)</em>, Author: James Stewart, Publisher: Brooks/Cole Cengage Learning, 2012. Note that this is a customized Hybrid (as well as paperback) version for the University of Massachusetts-Amherst. 
+<br><br>
+
+<b><b> Class Material by Section:</b></b>
+
+- Chapter 10: 10.1 and 10.3.
+- Chapter 12: 12.1-12.6.
+- Chapter 13: 13.1-13.4.
+- Chapter 14: 14.1-14.8.
+- Chapter 15: 15.1-15.5.
+- Chapter 16: 16.1-16.4. <br>
+<b> Important note:</b> Please, visit the Course Chair's webpage by clicking [here](http://people.math.umass.edu/~bill/m233/233-F15.html) and check out "Schedule of lectures" section. We <b>must</b> stick on that!
+
+<b><b>Grading:</b></b>
+
+
+ - Final Exam 25%. 
+ - Midterms 25% <b>each</b>. There will be <b>two</b> midterms (see the "Exams" section below)!
+ - (Weekly) [WebAssign](http://webassign.net/) homework 10%.
+ - Quizzes/Extra homework 10% (TBD).   
+ - Attendance and participation 5%.
+ - The course letter-grade scale is: <br>
+
+   <div align="center" style="vertical-align:bottom">
+    <table border="1"  align="center">
+  <tr>
+    <th>A</th>
+    <th>A-</th>
+    <th>B+</th>
+    <th>B</th>
+    <th>B-</th>
+    <th>C+</th>
+    <th>C</th>
+    <th>C-</th>
+    <th>D+</th>
+    <th>D</th>
+    <th>F</th>
+  </tr>
+  <tr>
+    <td>90</td>
+    <td>87</td>
+    <td>83</td>
+    <td>79</td>
+    <td>75</td>
+    <td>71</td>
+    <td>67</td>
+    <td>63</td>
+    <td>59</td>
+    <td>55</td>
+    <td><55</td>
+  </tr>
+</table>    
+</div>
+
+<b><b>Homework:</b></b>
+
+
+ - There will be weekly <b><b>online</b></b> homework assignments using [WebAssign](http://webassign.net/). When you buy a textbook make sure to buy also the WebAssign coupon. If you have not used WebAssign before,
+   try to log in [here](http://webassign.net/).
+ - As a general advice, even working on <b><b>online</b></b> problems, please, solve them 
+   by paper and pencil too, make copies of your solutions and keep them, say, in a binder, so
+   that you may easily reference that when you are studying for an exam.   
+ - There will be (almost) weekly quizzes and/or extra homework assignments.
+
+<b><b>Exams:</b></b>
+
+
+ - Midterms:
+    - Midterm 1: <b><b>Tuesday, October 4</b></b>, at <b><b>7:00pm</b></b> (Room ELAB II 119). <br>
+      The material to be covered on Midterm exam 1 is through <b>Section 13.4</b>.  
+    - Midterm 2: <b><b>Thursday, November 3</b></b>, at <b><b>7:00pm</b></b> (Room ISB 135). <br> 
+      The material to be covered on Midterm exam 2 is through <b>Section 14.8</b>. <br>
+
+ - The final exam for both sections has been scheduled as follows (see [SPIRE](https://www.spire.umass.edu/) as well):
+     - <b><b>December 20</b></b>, at <b><b>08:00am</b></b> (Boyden Phys. Ed. Gym).  
+      The final exam will be <b><em>cumulative</em></b>, with some emphasis placed on <em>topics covered after the Midterm exam 2</em>. 
+      <br>
+
+ - Make-up exams (see the "Make-up policy" section below):
+     - Midterm 1: <b><b>Wednesday, October 5</b></b>, at <b><b>7:00pm</b></b> (Room ILC S331). 
+     - Midterm 2: <b><b>Friday, November 4</b></b>, at <b><b>7:00pm</b></b> (Room ILC S331). 
+
+<b><b>Important Dates/Calendar:</b></b>
+
+
+  - Lectures start on <b>Tuesday, September 6</b>.
+  - Last day to <em>drop</em> with <b><b>no record</b></b> is <b>Thursday, September 20</b>. 
+    If you intend to drop, please do so as soon as possible; others may be waiting to enroll
+    in the corresponding Section.  
+  - <b>Midterm 1</b> is on <b>Tuesday, October 4</b>.
+  - <b>Columbus Day</b> is on <b>Monday, October 10</b>. Thus, <b>Tuesday, October 11</b> will follow <b>Monday schedule</b>.
+  - Last day to <em>drop</em> with "W" and select P/F is <b>Thursday, October 20</b>.
+  - <b>Midterm 2</b> is on <b>Thursday, November 3</b>.
+  - <b>Veterans' Day</b> is on <b>Friday, November 11</b>.
+  - <b>Thanksgiving recess</b> begins on <b>Sunday November 20</b> and classes <em>resume</em> on <b>Monday, November 28</b>.
+  - <b>Last day of classes</b> is on <b>December 14</b>. Then, <em>reading days</em> are <b>December 15 and 17</b>. 
+  - Semester ends on <b>December 23</b>.
+
+<b><b>Calculators/Make-up policy:</b></b>
+
+
+ - Calculators:
+    - You will be allowed to use a calculator on exams, but <b>only to perform arithmetic calculations</b>. 
+    - You <b>must</b> show <b>all work</b> other than arithmetic calculations. 
+    - Absolutely <b>no formula sheets, class notes, etc.</b> will be allowed during <b>final</b> and <b>midterm exams</b>. 
+    - <em>Learning</em> and <em>memorizing</em> formulas takes <em>time</em>. Thus, <b>do not postpone this until the last minute</b>.
+
+ - Make-up policy:
+    - Make-up exams will only be given for reasons described [here](http://people.math.umass.edu/~hongkun/Make-up%20Policy%20for%20Calculus%20233.htm). 
+    - Above all, remember that you have to notify me at least <b>two weeks in advance</b>.
