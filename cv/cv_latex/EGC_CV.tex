@@ -12,6 +12,12 @@
 \usepackage{tikz}
 \usetikzlibrary{svg.path}
 \usepackage{fontawesome}
+\let\svthefootnote\thefootnote
+\newcommand\freefootnote[1]{%
+  \let\thefootnote\relax%
+  \footnotetext{#1}%
+  \let\thefootnote\svthefootnote%
+}
 
 \definecolor{orcidlogocol}{HTML}{A6CE39}
 \tikzset{
@@ -318,12 +324,11 @@ Mathematics and Statistics
 \item[$\bullet$]
 \vskip -7mm National Science Foundation
 \begin{innerlist}
-\item[$\triangleright$] ``Undergraduate Research in Nonlinear Waves, % 
+\item[$\triangleright$] ``Collaborative Research: Collapse, % 
+Rogue Waves and their Applications: From Theory to Computation % 
+and Beyond'', amount: $\$142,798$ (submitted)
+\item[$\triangleright$] ``REU Site: Undergraduate Research in Nonlinear Waves, % 
 Mathematical Biology, and Data Science: Theory and Computation'', amount: $\$291,210$ (submitted)
-% \item[$\triangleright$] Collaborative Grant: %
-% ``From Collapse to Rogue Waves and Beyond: %
-% A Series of Current Challenges in Nonlinear Waves'', 
-% amount: $\$141,090$ (submitted)
 \end{innerlist}
 \item[$\bullet$]
 California Polytechnic State University, San Luis Obispo
@@ -402,7 +407,7 @@ University of Massachusetts Amherst\footref{note1}
 \item[$\triangleright$] MATH 551 - Introduction to Scientific Computing (S17, F17, S18, S19)
 \item[$\triangleright$] MATH 456 - Mathematical Modeling (Fall 2018)
 \item[$\triangleright$] MATH 331 - Ordinary Differential Equations for Scientists \& Engineers (F15, S16, F17, F18)
-\item[$\triangleright$] MATH 233 - Multivariable Calculus (F16)
+\item[$\triangleright$] MATH 233 - Multivariate Calculus (F16)
 % \item[$\triangleright$] MATH 456 - Mathematical Modeling, Fall 2018
 % \item[$\triangleright$] MATH 331 - Ordinary Differential Equations for Scientists and Engineers, Fall 2018 
 % \item[$\triangleright$] MATH 551 - Introduction to Scientific Computing, Spring 2018
@@ -410,7 +415,7 @@ University of Massachusetts Amherst\footref{note1}
 % \item[$\triangleright$] MATH 331 - Ordinary Differential Equations for Scientists and Engineers, Fall 2017
 % \item[$\triangleright$] MATH 551 - Introduction to Scientific Computing, Fall 2017
 % \item[$\triangleright$] MATH 551 - Introduction to Scientific Computing, Spring 2017
-% \item[$\triangleright$] MATH 233 - Multivariable Calculus, Fall 2016
+% \item[$\triangleright$] MATH 233 - Multivariate Calculus, Fall 2016
 % \item[$\triangleright$] MATH 331 - Ordinary Differential Equations for Scientists and Engineers, Spring 2016
 % \item[$\triangleright$] MATH 331 - Ordinary Differential Equations for Scientists and Engineers, Fall 2015
 % ===========================================================================================
@@ -452,7 +457,7 @@ September 2010-June 2013
 \begin{innerlist}
 \item[$\triangleright$] \textbf{Undergraduate Students}:
 \begin{innerlist}
-\item[$\star$] September 2020 - June 2021: Marisa Lee\\
+\item[$\star$] September 2020 - March 2022: Marisa Lee\\
 Project title: ``A Roadmap to Energy Harvesting using Granular Crystal Chains'' funded by RSCA
 \end{innerlist}
 \item[$\triangleright$] \textbf{Senior Projects}:
@@ -462,10 +467,10 @@ Project title: ``Time-periodic solutions in granular materials''
 \end{innerlist}
 \item[$\triangleright$] \textbf{FROST funded research}:
 \begin{innerlist}
-\item[$\star$] Summer 2020: Marisa Lee, Rachel Loh, and Harry Yan \\
-Project title: ``Energy localization in granular crystals for energy harvesting''
 \item[$\star$] Summer 2021: Andy Chiv, Riley Prendergast, and Alexis Saucerman\\
 Project title: ``Computation of matter waves in atomic physics''
+\item[$\star$] Summer 2020: Marisa Lee, Rachel Loh, and Harry Yan \\
+Project title: ``Energy localization in granular crystals for energy harvesting''
 \end{innerlist}
 \item[$\triangleright$] \textbf{Independent study}:
 \begin{innerlist}
@@ -519,7 +524,7 @@ equation and Ablowitz-Ladik lattice system''
 \begin{innerlist} 
 \item[$\triangleright$] Co-organizer (with P. Kevrekidis and C. Chong) of the webinar series on 
                         ``Nonlinear Waves and Coherent Structures'', since September 2020
-\item[$\triangleright$] Co-organizer (with P.~Kevrekidis and R.~Carretero) of 
+\item[$\triangleright$] Co-organizer (with P.~Kevrekidis and R.~Carretero-Gonz{\'a}lez) of 
                         the special session on ``Nonlinear Waves in Bose-Einstein Condensates: Recent developments'', 
                         The 12th IMACS International Conference on Nonlinear Evolution Equations and Wave Phenomena: 
                         Computation and Theory, University of Georgia, Athens, GA, March 29 - April 1, 2022                       
@@ -555,6 +560,7 @@ equation and Ablowitz-Ladik lattice system''
 \item[$\bullet$] Referee/reviewer for scientific journals, books, and funding agencies:
 \begin{innerlist}
 \item[$\triangleright$] \textit{National Science Foundation} (NSF), since 2021
+\item[$\triangleright$] \textit{Physica D: Nonlinear Phenomena}, since 2021
 \item[$\triangleright$] \textit{European Physical Journal Plus} (EPJP), since 2021
 \item[$\triangleright$] \textit{Journal of Scientific Computing}, since 2021
 \item[$\triangleright$] \textit{Mathematical Reviews} (AMS), since 2021 
@@ -651,21 +657,23 @@ Theoretical Physics", August 29 - September 09, 2011
 % \end{section}
 
 
-\begin{section}{Publications \& Preprints}
+\begin{section}{Publications \& Preprints\protect\footnote}
 %=======================================================
 \begin{benumerate}{36}
-
+\freefootnote{$^{2}$ Superscripts $\ast$ and $\ast\ast$ %
+denote undergraduate and graduate student coauthors, respectively.}
+  
 \renewcommand*\labelenumi{[\theenumi]}
 \item
 \vskip -6.3mm
 
 \textbf{\textit{The existence and stability of self-similar solutions to the focusing %
 Nonlinear Schr\"odinger Equation with a power law nonlinearity}}\\
-E.G. Charalampidis, D. Mantzavinos, M.E Kavousanakis, P.G. Kevrekidis and I.G. Kevrekidis
+E.G. Charalampidis, J. Chapman, D. Mantzavinos, M.E. Kavousanakis, P.G. Kevrekidis and I.G. Kevrekidis
 (in preparation)
 
 \item \textbf{\textit{Time-periodic solutions in a damped-driven $p$-dimer chain}}\\
-M.~Lee, E.G. Charalampidis, S.~Xing, C.~Chong and P.G. Kevrekidis
+M.~Lee$^{\ast}$, E.G. Charalampidis, S.~Xing, C.~Chong and P.G. Kevrekidis
 (in preparation)
 
 \item \textbf{\textit{Existence, Stability and Dynamics of Monopole and Alice Ring Solutions %
@@ -675,12 +683,13 @@ M.~Thudiyangal, R.~Carretero-Gonz{\'a}lez, E.G. Charalampidis, D.S.~Hall and P.G
 
 \item \textbf{\textit{Neural Networks Enforcing Physical Symmetries in Nonlinear Dynamical Lattices: %
 The Case Example of the Ablowitz-Ladik Model}}\\
-W.~Zhu, W.~Khademi, E.G. Charalampidis and P.G. Kevrekidis\\
+W.~Zhu, W.~Khademi$^{\ast}$, E.G. Charalampidis and P.G. Kevrekidis\\
 \href{https://arxiv.org/abs/2110.04693}{arXiv:2110.04693} (submitted to Physica D: Nonlinear Phenomena)
 
 \item \textbf{\textit{Wave manipulation using a bistable chain with reversible impurities}}\\
 H. Yasuda, E.G. Charalampidis, P.K. Purohit, P.G. Kevrekidis and J.R. Raney \\
-\href{https://arxiv.org/abs/2104.15108}{arXiv:2104.15108} (submitted to PRE)
+\href{https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.054209}{\textit{Phys. Rev. E}} \textbf{104}, 054209 (2021)
+%\href{https://arxiv.org/abs/2104.15108}{arXiv:2104.15108} (accepted to PRE)
 
 \item \textbf{\textit{Stability of trapped solutions of a nonlinear Schr\"odinger %
 equation with a nonlocal nonlinear self-interaction potential}}\\
@@ -707,11 +716,11 @@ E.G. Charalampidis, F. Cooper, J. Dawson, A. Khare and A. Saxena \\
 \href{https://iopscience.iop.org/article/10.1088/1751-8121/abdca8}{\textit{J. Phys. A: Math. and Theor.}} \textbf{54}, 145701 (2021)
 
 \item \textbf{\textit{Dark-dark soliton breathing patterns in multi-component Bose-Einstein condensates}} \\
-W. Wang, L.-C. Zhao, E.G. Charalampidis and P.G. Kevrekidis\\
-\href{https://iopscience.iop.org/article/10.1088/1361-6455/abe67d/meta}{\textit{J. Phys. B: At. Mol. Opt. Phys.}} \textbf{54}, 055301 (2021)
+                                               W. Wang, L.-C. Zhao, E.G. Charalampidis and P.G. Kevrekidis\\
+                                               \href{https://iopscience.iop.org/article/10.1088/1361-6455/abe67d/meta}{\textit{J. Phys. B: At. Mol. Opt. Phys.}} \textbf{54}, 055301 (2021)
     
 \item \textbf{\textit{Kuznetsov-Ma breather-like solutions in the Salerno model}}\\
-J. Sullivan, E.G. Charalampidis, J. Cuevas-Maraver, P.G. Kevrekidis and N. Karachalios \\
+J. Sullivan$^{\ast}$, E.G. Charalampidis, J. Cuevas-Maraver, P.G. Kevrekidis and N. Karachalios \\
 \href{https://link.springer.com/article/10.1140/epjp/s13360-020-00596-1?wt_mc=Internal.Event.1.SEM.ArticleAuthorIncrementalIssue}%
 {\textit{Eur. Phys. J. Plus}} \textbf{135}, 607 (2020)
 %\href{https://arxiv.org/abs/2006.00958}{arXiv:2006.00958} (submitted)
@@ -729,9 +738,9 @@ equations in an external, $\mathcal{PT}$- and supersymmetric potential}} \\
   
 \item  \textbf{\textit{Bifurcation analysis of stationary solutions of two-dimensional coupled Gross-Pitaevskii equations using deflated
 continuation}} \\
-E.G. Charalampidis, N.~Boull\'e, P.E. Farrell and P.G. Kevrekidis\\ 
-\href{https://doi.org/10.1016/j.cnsns.2020.105255}{\textit{Commun. Nonlinear Sci. Numer. Simulat}} \textbf{87}, 105255 (2020)
-%\href{https://arxiv.org/abs/1912.00023}{arXiv:1912.00023}   
+                                              E.G. Charalampidis, N.~Boull\'e, P.E. Farrell and P.G. Kevrekidis\\ 
+                                              \href{https://doi.org/10.1016/j.cnsns.2020.105255}{\textit{Commun. Nonlinear Sci. Numer. Simulat}} \textbf{87}, 105255 (2020)
+                                             %\href{https://arxiv.org/abs/1912.00023}{arXiv:1912.00023}   
   
 \item \textbf{\textit{Breathers and other time-periodic solutions in an array of cantilevers decorated with magnets}} \\
                                                C. Chong, A. Foehr, E.G. Charalampidis, P.G. Kevrekidis and C. Daraio\\
@@ -746,11 +755,11 @@ E.G. Charalampidis, N.~Boull\'e, P.E. Farrell and P.G. Kevrekidis\\
                                              \href{https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.032903}{\textit{Phys. Rev. E}} \textbf{98}, 032903 (2018)         
          
 \item \textbf{\textit{Lattices with internal resonator defects}} \\                                            
-                                             S. Hauver, X. He,  D. Mei, E.G. Charalampidis, P.G. Kevrekidis, E. Kim, J. Yang and A. Vainchtein\\
+                                             S. Hauver$^{\ast}$, X. He$^{\ast}$,  D. Mei, E.G. Charalampidis, P.G. Kevrekidis, E. Kim, J. Yang and A. Vainchtein\\
                                              \href{https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.032902}{\textit{Phys. Rev. E}} \textbf{98}, 032902 (2018)
                                              
 \item \textbf{\textit{Peregrine solitons and gradient catastrophes in discrete nonlinear Schr\"odinger systems}} \\
-                                             C. Hoffmann, E.G. Charalampidis, D.J. Frantzeskakis and P.G. Kevrekidis\\
+                                             C. Hoffmann$^{\ast\ast}$, E.G. Charalampidis, D.J. Frantzeskakis and P.G. Kevrekidis\\
                                              \href{https://www.sciencedirect.com/science/article/pii/S0375960118308867}{\textit{Phys. Lett. A}} \textbf{382}, 3064 (2018)                                                    
 
 \item \textbf{\textit{Computing stationary solutions of the two-dimensional Gross-Pitaevskii equation with deflated continuation}}\\
@@ -831,13 +840,19 @@ E.G. Charalampidis, N.~Boull\'e, P.E. Farrell and P.G. Kevrekidis\\
 Towards realistic models of water waves: effects of forcing, dissipation, and bathymetry, 
 Oaxaca, Mexico, 2023. Talk title: TBA
 
+\item AMS Fall Eastern Sectional Meeting, University of Massachusetts Amherst, Amherst, MA, October 1 - 2, 2022.
+        Talk title: TBA  
+
+\item SIAM Conference on Nonlinear Waves and Coherent Structures, Bremen, Germany, August 30 - September 2, 2022.
+Talk title: TBA
+
 \item The 13th AIMS Conference on Dynamical Systems and Differential Equations, Rome, June 2022. 
 First talk title: ``\textit{Extreme nonlinear excitations in lattice and continuum models}'';      
 second talk title: ``\textit{The configuration space of solutions in Nonlinear Schr\"odinger 
 systems: From single to multicomponent models in 2D and 3D}''
 
 \item The 12th IMACS International Conference on Nonlinear Evolution Equations and Wave Phenomena: Computation and Theory, %
-        University of Georgia, Athens, GA, March 29 - April 1, 2022. 
+        University of Georgia, Athens, GA, March 30 - April 1, 2022. 
         Talk title: ``Recent advances in single and multi-component NLS systems''
 
 \item Colloquium, Mathematics Department, California Polytechnic State University, San Luis Obispo, CA, November 19, 2021. 
@@ -851,10 +866,7 @@ Talk title: ``\textit{Bifurcation analysis tools for Nonlinear Complex Dynamical
 
 \item SIAM Conference on Applications of Dynamical Systems, Portland, OR, May 23 - 27, 2021. Talk title: 
 ``\textit{Rogue waves in continuous and discrete models: Existence, stability and dynamics}''
-% 
-% SIAM Conference on Nonlinear Waves and Coherent Structures, Bremen, Germany, July 27 - 30, 2020.
-% Talk title: ``\textit{Existence and stability of peakons in the b-family}''
-% 
+
 \item SIAM Conference on Analysis of Partial Differential Equations, La Quinta, CA, December 11 - 14, 2019. 
 Talk title: ``\textit{Bifurcation analysis of nonlinear PDEs using deflated continuation}''
 
@@ -1005,8 +1017,8 @@ Talk title: ``\textit{Formation of rogue waves in continuous and discrete models
 \item \vskip -7mm
 Computer proficient:  Operating systems Linux, Unix, MacOS, Windows
 \item Programming Languages: Fortran, C/C++, Python, Bash scripting, Java
-\item Software: Mathematica, MATLAB, Julia, Maple, AUTO software for continuation %
-and bifurcation problems, REDUCE algebra system, Root
+\item Software: Mathematica, MATLAB, Julia, Maple, continuation and bifurcation
+software AUTO and COCO, REDUCE algebra system, ROOT
 \item Parallel Programming: OpenMP
 
 \end{outerlist}
