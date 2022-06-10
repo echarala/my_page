@@ -1,0 +1,296 @@
+---
+layout: page
+title: Publications
+weight: 4
+menu: main
+---
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
+});
+</script>
+<script type="text/javascript" async src="path-to-mathjax/MathJax.js?config=TeX-AMS_CHTML"></script>
+
+
+<h3>Publication List</h3>
+
+<ol reversed>
+
+<li><b><b>A Spectral Analysis of the Nonlinear Schr&ouml;dinger Equation in the Co-Exploding Frame.</b></b><br>
+           S. Jon Chapman, M. Kavousanakis, E.G. Charalampidis,  I.G. Kevrekidis and P.G. Kevrekidis.<br>
+           <a href="https://arxiv.org/abs/2201.13051" target="_blank">arXiv:2201.13051</a>
+           (to appear in Physica D: Nonlinear Phenomena) 
+  </li>    
+  <br>
+
+<li><b><b>Existence, Stability and Dynamics of Monopole and Alice Ring Solutions in Anti-Ferromagnetic Spinor Condensates.</b></b><br>
+           Thudiyangal Mithun, R. Carretero-Gonz&aacutelez, E.G. Charalampidis, D.S. Hall and P.G. Kevrekidis.<br>
+           <em>Phys. Rev. A</em>, <b><b>105</b></b>, 053303 (2022)
+           <a href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.053303" target="_blank">article</a>
+           <a href="https://arxiv.org/abs/2112.12723" target="_blank">(arXiv)</a>
+  </li>    
+  <br>
+  
+ <li><b><b>Neural Networks Enforcing Physical Symmetries in Nonlinear Dynamical Lattices: The Case Example of the Ablowitz-Ladik Model.</b></b><br>
+           W. Zhu, W. Khademi, E.G. Charalampidis and P.G. Kevrekidis.<br>
+           <em>Physica D: Nonlinear Phenomena</em>, <b><b>434</b></b>, 133264 (2022),
+           <a href="https://www.sciencedirect.com/science/article/pii/S0167278922000690?via%3Dihub" target="_blank">article</a>            
+           <a href="https://arxiv.org/abs/2110.04693" target="_blank">(arXiv)</a>
+  </li>    
+  <br> 
+  
+ <li><b><b>Wave manipulation using a bistable chain with reversible impurities.</b></b><br>
+           H. Yasuda, E.G. Charalampidis, P.K. Purohit, P.G. Kevrekidis and J.R. Raney.<br>
+           <em>Phys. Rev. E</em>, <b><b>104</b></b>, 054209 (2021), 
+           <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.054209" target="_blank">article</a>            
+           <a href="https://arxiv.org/abs/2104.15108" target="_blank">(arXiv)</a>
+
+  </li>    
+  <br> 
+   
+ <li><b><b>Stability of trapped solutions of a nonlinear Schr&ouml;dinger equation with a nonlocal nonlinear self-interaction potential.</b></b><br>
+           E.G. Charalampidis, F. Cooper, A. Khare, J. Dawson and A. Saxena.<br>
+           <em>J. Phys. A: Math. and Theor.</em>, <b><b>55</b></b>, 015703 (2021)
+           <a href="https://iopscience.iop.org/article/10.1088/1751-8121/ac265b/meta" target="_blank">article</a>
+           <a href="https://arxiv.org/abs/2104.14736" target="_blank">(arXiv)</a>
+           
+   
+  </li>    
+  <br>
+  
+ <li><b><b>Numerical bifurcation and stability for the capillary-gravity Whitham equation.</b></b><br>
+           E.G. Charalampidis and V.M. Hur.<br>
+           <em>Wave Motion</em>, <b><b>106</b></b>, 102793 (2021)
+            <a href="https://www.sciencedirect.com/science/article/pii/S0165212521000913" target="_blank">article</a>            
+           <a href="https://arxiv.org/abs/2102.01905" target="_blank">(arXiv)</a>
+  </li>    
+  <br>
+  
+  <li><b><b>The stability of peakons of the $b$-family.</b></b><br>
+           E.G. Charalampidis, R. Parker, P.G. Kevrekidis and S. Lafortune.<br>
+           <a href="https://arxiv.org/abs/2012.13019" target="_blank">arXiv:2012.13019</a>
+           (submitted to Nonlinearity)
+  </li>    
+  <br>
+  
+  
+   <li><b><b>Nonlinear Localized Modes in Two-Dimensional Hexagonally-Packed Magnetic Lattices.</b></b><br>
+           C. Chong, Y. Wang, D. Mar&eacutechal, E.G. Charalampidis, M. Moler&oacuten, A.J. Mart&iacutenez, M.A. Porter, 
+P.G. Kevrekidis and C. Daraio.<br>
+            <em>New J. Phys.</em>, <b><b>23</b></b>, 043008 (2021)
+            <a href="https://iopscience.iop.org/article/10.1088/1367-2630/abdb6f" target="_blank">article</a>
+            <a href="https://arxiv.org/abs/2009.10300" target="_blank">(arXiv)</a>
+  </li>    
+  <br>
+  
+  
+  <li><b><b>Behavior of solitary waves of coupled nonlinear Schr&ouml;dinger equations 
+subjected to complex external periodic potentials with odd-$\mathcal{PT}$ symmetry.</b></b><br>
+           E.G. Charalampidis, F. Cooper, J. Dawson,  A. Khare and A. Saxena.<br>
+           <em>J. Phys. A: Math. and Theor.</em>, <b><b>54</b></b>, 145701 (2021)
+           <a href="https://iopscience.iop.org/article/10.1088/1751-8121/abdca8" target="_blank">article</a>
+           <a href="https://arxiv.org/abs/2009.03989" target="_blank">(arXiv)</a>
+  </li>    
+  <br>
+  
+  <li><b><b>Dark-dark soliton breathing patterns in multi-component Bose-Einstein condensates.</b></b><br>
+           W. Wang, L.-C. Zhao, E.G. Charalampidis and P.G. Kevrekidis.<br>
+           <em>J. Phys. B: At. Mol. Opt. Phys.</em>, <b><b>54</b></b>, 055301 (2021)
+           <a href="https://iopscience.iop.org/article/10.1088/1361-6455/abe67d/meta" target="_blank">article</a>
+           <a href="https://arxiv.org/abs/2003.10679" target="_blank">(arXiv)</a> 
+  </li>
+  <br> 
+  
+  
+   <li><b><b> Kuznetsov-Ma breather-like solutions in the Salerno model.</b></b><br>
+           J. Sullivan, E.G. Charalampidis, J. Cuevas-Maraver, P.G. Kevrekidis and N.I. Karachalios.<br>
+           <em>Eur. Phys. J. Plus</em>, <b><b>135</b></b>, 607 (2020),  
+           <a href="https://link.springer.com/article/10.1140/epjp/s13360-020-00596-1?wt_mc=Internal.Event.1.SEM.ArticleAuthorIncrementalIssue" target="_blank">article</a> 
+           <a href="https://arxiv.org/abs/2006.00958" target="_blank">(arXiv)</a>
+  </li>    
+  <br>
+  
+   <li><b><b>Deflation-based Identification of Nonlinear Excitations of the 3D Gross-Pitaevskii equation.</b></b><br>
+          N. Boull&eacute, E.G. Charalampidis,  P.E. Farrell and P.G. Kevrekidis. <br>
+          <em>Phys. Rev. A</em>, <b><b>102</b></b>, 053307 (2020)
+          <a href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.053307" target="_blank">article</a>
+          <a href="https://arxiv.org/abs/2004.10446" target="_blank">(arXiv)</a>
+  </li>    
+  <br>
+   
+<li><b><b>Stability and response of trapped solitary wave solutions of coupled nonlinear Schr&ouml;dinger
+equations in an external, $\mathcal{PT}$- and supersymmetric potential.</b></b><br>         
+          E.G. Charalampidis, J. Dawson, F. Cooper, A. Khare and A. Saxena.<br> 
+          <em>J. Phys. A: Math. and Theor.</em>, <b><b>53</b></b>, 455702 (2020)
+          <a href="https://iopscience.iop.org/article/10.1088/1751-8121/abb278" target="_blank">article</a>
+          <a href="https://arxiv.org/abs/2004.08940" target="_blank">(arXiv)</a>
+          
+ </li> 
+ <br> 
+                                        
+  <li><b><b>Bifurcation analysis of stationary solutions of two-dimensional coupled Gross-Pitaevskii equations using deflated continuation.</b></b><br>
+           E.G. Charalampidis, N. Boull&eacute, P.G. Kevrekidis and P.E. Farrell.<br>
+           <em>Commun. Nonlinear Sci. Numer. Simulat</em>, <b><b>87</b></b>, 105255 (2020)
+           <a href="https://www.sciencedirect.com/science/article/pii/S1007570420300885" target="_blank">article</a> 
+           <a href="https://arxiv.org/abs/1912.00023" target="_blank">(arXiv)</a>
+
+  </li>    
+  <br>
+  
+  <li><b><b>Breathers and other time-periodic solutions in an array of cantilevers decorated with magnets.</b></b><br>
+           A. Foehr, E.G. Charalampidis, C. Chong, P.G. Kevrekidis and C. Daraio. <br>
+           <em>Math. Engin.</em>, <b><b>1</b></b>(3), 489 (2019),
+           <a href="https://www.aimspress.com/article/id/3791" target="_blank">article</a>
+  </li>    
+  <br>
+
+ <li><b><b>Origami-based impact mitigation via rarefaction solitary wave creation.</b></b><br>
+           H. Yasuda, Y. Miyazawa, E.G. Charalampidis, C. Chong, P.G. Kevrekidis and J. Yang.<br>
+           <em>Sci. Adv.</em>, <b><b>5</b></b>, eaau283 (2019), 
+           <a href="https://advances.sciencemag.org/content/5/5/eaau2835.abstract" target="_blank">article</a>
+           <a href="https://arxiv.org/abs/1805.05909" target="_blank">(arXiv)</a>
+  </li>    
+  <br>
+
+ <li><b><b>Phononic Rogue Waves.</b></b><br>
+           E.G. Charalampidis, J. Lee, P.G. Kevrekidis and C. Chong.<br>
+           <em>Phys. Rev. E</em>, <b><b>98</b></b>, 032903 (2018),  
+           <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.032903" target="_blank">article</a> 
+           <a href="https://arxiv.org/abs/1801.06086" target="_blank">(arXiv)</a>
+  </li>    
+  <br>
+
+ <li><b><b>Lattices with internal resonator defects.</b></b><br>
+           S. Hauver, X. He, D. Mei, E.G. Charalampidis, P.G. Kevrekidis, E. Kim, J. Yang and A. Vainchtein.<br>
+           <em>Phys. Rev. E</em>, <b><b>98</b></b>, 032902 (2018), 
+           <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.032902" target="_blank">article</a>            
+           <a href="https://arxiv.org/abs/1804.04733" target="_blank">(arXiv)</a>
+  </li>    
+  <br>
+
+ <li><b><b>Peregrine solitons and gradient catastrophes in discrete nonlinear Schr&ouml;dinger systems.</b></b><br>
+           C. Hoffmann, E.G. Charalampidis, D.J. Frantzeskakis and P.G. Kevrekidis.<br>
+           <em>Phys. Lett. A</em>, <b><b>382</b></b>, 3064 (2018),  
+            <a href="https://www.sciencedirect.com/science/article/pii/S0375960118308867" target="_blank">article</a> 
+            <a href="https://arxiv.org/abs/1710.04899" target="_blank">(arXiv)</a>
+  </li>    
+  <br>
+
+  <li><b><b>Computing stationary solutions of the two-dimensional Gross-Pitaevskii equation with deflated continuation.</b></b><br>
+            E.G. Charalampidis, P.G. Kevrekidis and P.E. Farrell.<br>
+            <em>Commun. Nonlinear Sci. Numer. Simulat</em>, <b><b>54</b></b>, 482 (2018)
+            <a href="http://www.sciencedirect.com/science/article/pii/S1007570417301880" target="_blank">article</a> 
+            <a href="https://arxiv.org/abs/1612.08145" target="_blank">(arXiv)</a>
+  </li>    
+  <br>
+
+<li><b><b>Rogue waves in ultracold bosonic seas.</b></b><br>
+          E.G. Charalampidis, J. Cuevas-Maraver, D.J. Frantzeskakis and P.G. Kevrekidis.<br>
+          <em>Rom. Rep. Phys.</em>, <b><b>70</b></b>, 504 (2018)
+          <a href="http://rrp.infim.ro/IP/2018/AN504.pdf" target="_blank">article</a> 
+          <a href="http://arxiv.org/abs/1609.01798" target="_blank">(arXiv)</a>
+  </li>   
+  <br>
+
+  <li><b><b>Discrete BPS Skyrmions.</b></b><br>
+            M. Agaoglou, E.G. Charalampidis, T.A. Ioannidou and P.G. Kevrekidis.<br>
+            <em>J. Math. Phys.</em>, <b><b>58</b></b>, 091501 (2017),  
+            <a href="http://aip.scitation.org/doi/full/10.1063/1.5000905" target="_blank">article</a> 
+            <a href="https://arxiv.org/abs/1703.09093/arXiv:1703.09093" target="_blank">(arXiv)</a>
+  </li>    
+  <br>
+
+  <li><b><b>Revisiting Diffusion: Self-similar Solutions and the $t^{-1/2}$ Decay in Initial and Initial-Boundary Value Problems.</b></b><br>
+            P. G. Kevrekidis, M.O. Williams, D. Mantzavinos, E.G. Charalampidis, M. Choi and I.G. Kevrekidis.<br>
+            <em>Quart. Appl. Math.</em>, <b><b>75</b></b>, 581 (2017)
+            <a href="http://www.ams.org/journals/qam/2017-75-04/S0033-569X-2017-01473-0/" target="_blank">article</a>
+            <a href="https://arxiv.org/abs/1702.00861" target="_blank">(arXiv)</a>
+  </li>    
+  <br>
+
+  <li><b><b>SO(2)-induced breathing patterns in multi-component Bose-Einstein condensates.</b></b><br>
+            E.G. Charalampidis, W. Wang, P.G. Kevrekidis, D.J. Frantzeskakis and J. Cuevas-Maraver.<br>
+            <em>Phys. Rev. A</em>, <b><b>93</b></b>, 063623 (2016)
+            <a href="http://journals.aps.org/pra/abstract/10.1103/PhysRevA.93.063623" target="_blank">article</a> 
+            <a href="http://arxiv.org/abs/1604.04690" target="_blank">(arXiv)</a>
+   </li> 
+   <br>
+
+  <li><b><b>Vortex-soliton complexes in coupled nonlinear Schr&oumldinger equations with unequal dispersion coefficients.</b></b><br>
+            E.G. Charalampidis, P.G. Kevrekidis, D.J. Frantzeskakis and B.A. Malomed.<br>
+            <em>Phys. Rev. E</em>, <b><b>94</b></b>, 022207 (2016)
+            <a href="http://journals.aps.org/pre/abstract/10.1103/PhysRevE.94.022207" target="_blank">article</a>
+            <a href="http://arxiv.org/abs/1512.07693" target="_blank">(arXiv)</a>
+  </li> 
+  <br>
+  <li><b><b>Nonlinear vibrational-state excitation and piezoelectric energy conversion in harmonically driven granular chains.</b></b><br>
+            C. Chong, E. Kim, E.G. Charalampidis, H. Kim, F. Li, P.G. Kevrekidis, J. Lydon, C. Daraio and J. Yang.<br>
+            <em>Phys. Rev. E</em>, <b><b>93</b></b>, 052203 (2016),  
+            <a href="http://journals.aps.org/pre/abstract/10.1103/PhysRevE.93.052203" target="_blank">article</a> 
+            <a href="http://arxiv.org/abs/1510.04753" target="_blank">(arXiv)</a>
+  </li>       
+  <br> 
+  <li><b><b>Formation of rarefaction waves in origami-based metamaterials.</b></b><br>
+            H. Yasuda, C. Chong, E.G. Charalampidis, P.G. Kevrekidis and J. Yang.<br>
+            <em>Phys. Rev. E</em>, <b><b>93</b></b>, 043004 (2016),  
+            <a href="http://journals.aps.org/pre/abstract/10.1103/PhysRevE.93.043004" target="_blank">article</a> 
+            <a href="http://arxiv.org/abs/1505.03752" target="_blank">(arXiv)</a>
+  </li>
+  <br>
+  <li><b><b>Wormholes from Chiral Fields.</b></b><br>
+            E. Charalampidis, T. Ioannidou, B. Kleihaus and J. Kunz.<br>
+            <em>J. Phys. Conf. Ser.</em>, <b><b>574</b></b>, 012058 (2015),
+            <a href="http://iopscience.iop.org/article/10.1088/1742-6596/574/1/012058/meta;jsessionid=410E265F873029FF35F37F89D4E32E33.ip-10-40-2-108" target="_blank">article</a> 
+  </li>
+  <br>
+  <li><b><b>Time-Periodic Solutions of Driven-Damped Trimer Granular Crystals.</b></b><br>
+            E.G. Charalampidis, F. Li, C. Chong, J. Yang and P.G. Kevrekidis.<br>
+            <em>Math. Prob. in Eng.</em>, <b><b>2015</b></b>, 830978 (2015),  
+            <a href="http://www.hindawi.com/journals/mpe/2015/830978/" target="_blank">article</a> 
+            <a href="http://arxiv.org/abs/1411.0614" target="_blank">(arXiv)</a>
+  </li>
+  <br>
+  <li><b><b>Lattice three-dimensional skyrmions revisited.</b></b><br>
+            E.G. Charalampidis, T.A. Ioannidou and P.G. Kevrekidis.<br>
+            <em>Phys. Scr.</em>, <b><b>90</b></b>, 025202 (2015),  
+            <a href="http://iopscience.iop.org/article/10.1088/0031-8949/90/2/025202/meta;jsessionid=7B6E9C62AFB253ED32461A5AE4E9B89F.c1" target="_blank">article</a> 
+            <a href="http://arxiv.org/abs/1411.1313" target="_blank">(arXiv)</a>
+  </li>
+  <br>
+  <li><b><b>Dark-bright solitons in coupled nonlinear Schr&oumldinger equations with unequal dispersion coefficients.</b></b><br>
+            E.G. Charalampidis, P.G. Kevrekidis, D.J. Frantzeskakis and B.A. Malomed.<br>
+            <em>Phys. Rev. E</em>, <b><b>91</b></b>, 012924 (2015),  
+            <a href="http://journals.aps.org/pre/abstract/10.1103/PhysRevE.91.012924" target="_blank">article</a> 
+            <a href="http://arxiv.org/abs/1407.1335" target="_blank">(arXiv)</a>
+  </li>
+  <br>
+  <li><b><b>Vector rogue waves and dark-bright boomeronic solitons in autonomous and non-autonomous settings.</b></b><br>
+            R. Babu Mareeswaran, E.G. Charalampidis, T. Kanna, P.G. Kevrekidis and D.J. Frantzeskakis.<br>
+            <em>Phys. Rev. E</em>, <b><b>90</b></b>, 042912 (2014),  
+            <a href="http://journals.aps.org/pre/abstract/10.1103/PhysRevE.90.042912" target="_blank">article</a> 
+            <a href="http://arxiv.org/abs/1407.1336" target="_blank">(arXiv)</a>
+  </li>
+  <br>
+  <li><b><b>Rogue waves in nonlinear Schr&oumldinger models with variable coefficients: Application to Bose-Einstein condensates.</b></b><br>
+            J.S. He, E.G. Charalampidis, P.G. Kevrekidis and D.J. Frantzeskakis.<br>
+            <em>Phys. Lett. A</em>, <b><b>378</b></b>, 577 (2014),  
+            <a href="http://www.sciencedirect.com/science/article/pii/S0375960113010967" target="_blank">article</a> 
+            <a href="http://arxiv.org/abs/1311.5497" target="_blank">(arXiv)</a>
+  </li>
+  <br>
+  <li><b><b>Wormholes threaded by chiral fields.</b></b><br>
+            E.G. Charalampidis, T.A. Ioannidou, B. Kleihaus and J. Kunz.<br>
+            <em>Phys. Rev. D</em>, <b><b>87</b></b>, 084069 (2013),  
+            <a href="http://journals.aps.org/prd/abstract/10.1103/PhysRevD.87.084069" target="_blank">article</a> 
+            <a href="http://arxiv.org/abs/1302.5560" target="_blank">(arXiv)</a>
+  </li>
+  <br>
+  <li><b><b>Skyrmions, rational maps and scaling identities.</b></b><br>
+            E.G. Charalampidis, T.A. Ioannidou and N.S. Manton.<br>
+            <em>J. Math. Phys.</em>, <b><b>52</b></b>, 033509 (2011),  
+            <a href="http://scitation.aip.org/content/aip/journal/jmp/52/3/10.1063/1.3566530" target="_blank">article</a> 
+            <a href="http://arxiv.org/abs/1012.3778" target="_blank">(arXiv)</a>
+  </li>
+
+</ol>
