@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=latex 2018.11.5)  12 JUL 2022 04:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=latex 2018.11.5)  15 AUG 2022 09:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -878,13 +878,13 @@ Overfull \hbox (2.78204pt too wide) in paragraph at lines 702--705
 dis, D.S. Hall and P.G. Kevrekidis 
  []
 
-
+[5]
 Overfull \hbox (1.81293pt too wide) in paragraph at lines 733--737
 []\OT1/cmr/bx/it/10 Nonlinear Lo-cal-ized Modes in Two-Dimensional Hexagonally-
 Packed Mag-netic Lat-
  []
 
-[5]
+
 Overfull \hbox (29.10457pt too wide) in paragraph at lines 759--763
 []\OT1/cmr/bx/it/10 Stability and re-sponse of trapped soli-tary wave so-lu-tio
 ns of cou-pled non-lin-ear Schr^^?odinger
@@ -910,10 +910,10 @@ Package rerunfilecheck Info: File `EGC_CV.out' has not changed.
 Here is how much of TeX's memory you used:
  20408 strings out of 492983
  365115 string characters out of 6134922
- 580987 words of memory out of 5000000
+ 580988 words of memory out of 5000000
  23594 multiletter control sequences out of 15000+600000
  8915 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,23n,76p,1038b,951s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on EGC_CV.dvi (11 pages, 93456 bytes).
+Output written on EGC_CV.dvi (11 pages, 93884 bytes).
