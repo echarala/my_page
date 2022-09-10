@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=latex 2018.11.5)  15 AUG 2022 09:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=latex 2018.11.5)  10 SEP 2022 03:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -891,18 +891,18 @@ ns of cou-pled non-lin-ear Schr^^?odinger
  []
 
 [6] [7] [8] [9] [10]
-Underfull \hbox (badness 10000) in paragraph at lines 1076--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1077--1078
 
  []
 
 
 AED: lastpage setting LastPage
 [11]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1123.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1123.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1124.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1124.
  (./EGC_CV.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1123.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1123.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1124.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1124.
 
 Package rerunfilecheck Info: File `EGC_CV.out' has not changed.
 (rerunfilecheck)             Checksum: 43CB96D5C4280B76B2C7C1A6EA7651D8;1070.
@@ -910,10 +910,10 @@ Package rerunfilecheck Info: File `EGC_CV.out' has not changed.
 Here is how much of TeX's memory you used:
  20408 strings out of 492983
  365115 string characters out of 6134922
- 580988 words of memory out of 5000000
+ 580987 words of memory out of 5000000
  23594 multiletter control sequences out of 15000+600000
  8915 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,23n,76p,1038b,951s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on EGC_CV.dvi (11 pages, 93884 bytes).
+Output written on EGC_CV.dvi (11 pages, 94604 bytes).
