@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=latex 2018.11.5)  16 SEP 2022 20:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=latex 2018.11.5)  6 OCT 2022 15:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -870,50 +870,44 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 ] [2] [3] [4]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@ifnextchar' on input line 682.
+(hyperref)                removing `\@ifnextchar' on input line 683.
 
 
-Overfull \hbox (2.78204pt too wide) in paragraph at lines 703--706
+Overfull \hbox (2.78204pt too wide) in paragraph at lines 710--713
 \OT1/cmr/m/n/10 Thudiyangal Mithun, R. Carretero-Gonz^^Salez, E.G. Char-alam-pi
 dis, D.S. Hall and P.G. Kevrekidis 
  []
 
 [5]
-Overfull \hbox (1.81293pt too wide) in paragraph at lines 734--738
+Overfull \hbox (1.81293pt too wide) in paragraph at lines 741--745
 []\OT1/cmr/bx/it/10 Nonlinear Lo-cal-ized Modes in Two-Dimensional Hexagonally-
 Packed Mag-netic Lat-
  []
 
 
-Overfull \hbox (29.10457pt too wide) in paragraph at lines 760--764
+Overfull \hbox (29.10457pt too wide) in paragraph at lines 767--771
 []\OT1/cmr/bx/it/10 Stability and re-sponse of trapped soli-tary wave so-lu-tio
 ns of cou-pled non-lin-ear Schr^^?odinger
  []
 
-[6] [7] [8] [9] [10]
-Underfull \hbox (badness 10000) in paragraph at lines 1078--1079
-
- []
-
-
+[6] [7] [8] [9] [10] [11] 
 AED: lastpage setting LastPage
-[11]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1125.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1125.
- (./EGC_CV.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1125.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1125.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1145.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1145.
+(./EGC_CV.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1145.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1145.
 
 Package rerunfilecheck Info: File `EGC_CV.out' has not changed.
-(rerunfilecheck)             Checksum: 43CB96D5C4280B76B2C7C1A6EA7651D8;1070.
+(rerunfilecheck)             Checksum: E8B06ED1E3314A280589AD5C40263839;1009.
  ) 
 Here is how much of TeX's memory you used:
- 20408 strings out of 492983
- 365115 string characters out of 6134922
- 580988 words of memory out of 5000000
- 23594 multiletter control sequences out of 15000+600000
+ 20407 strings out of 492983
+ 365102 string characters out of 6134922
+ 580890 words of memory out of 5000000
+ 23593 multiletter control sequences out of 15000+600000
  8915 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,23n,76p,1038b,951s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on EGC_CV.dvi (11 pages, 94864 bytes).
+Output written on EGC_CV.dvi (11 pages, 93064 bytes).
