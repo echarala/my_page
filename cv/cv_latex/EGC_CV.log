@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=latex 2018.11.5)  8 DEC 2022 14:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=latex 2018.11.5)  14 DEC 2022 18:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -873,31 +873,31 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\@ifnextchar' on input line 688.
 
 [5]
-Overfull \hbox (2.78204pt too wide) in paragraph at lines 728--731
+Overfull \hbox (2.78204pt too wide) in paragraph at lines 733--736
 \OT1/cmr/m/n/10 Thudiyangal Mithun, R. Carretero-Gonz^^Salez, E.G. Char-alam-pi
 dis, D.S. Hall and P.G. Kevrekidis 
  []
 
 
-Overfull \hbox (1.81293pt too wide) in paragraph at lines 755--759
+Overfull \hbox (1.81293pt too wide) in paragraph at lines 760--764
 []\OT1/cmr/bx/it/10 Nonlinear Lo-cal-ized Modes in Two-Dimensional Hexagonally-
 Packed Mag-netic Lat-
  []
 
 
-Overfull \hbox (29.10457pt too wide) in paragraph at lines 781--785
+Overfull \hbox (29.10457pt too wide) in paragraph at lines 786--790
 []\OT1/cmr/bx/it/10 Stability and re-sponse of trapped soli-tary wave so-lu-tio
 ns of cou-pled non-lin-ear Schr^^?odinger
  []
 
-[6] [7] [8] [9] [10] 
+[6] [7] [8] [9] [10] [11] 
 AED: lastpage setting LastPage
-[11]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1165.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1165.
+[12]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1173.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1173.
  (./EGC_CV.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1165.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1165.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1173.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1173.
 
 Package rerunfilecheck Info: File `EGC_CV.out' has not changed.
 (rerunfilecheck)             Checksum: E8B06ED1E3314A280589AD5C40263839;1009.
@@ -911,4 +911,4 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  55i,23n,76p,1038b,951s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on EGC_CV.dvi (11 pages, 95324 bytes).
+Output written on EGC_CV.dvi (12 pages, 96652 bytes).
