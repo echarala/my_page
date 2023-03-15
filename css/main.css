@@ -91,7 +91,7 @@ p   {
 /*  margin-left: 20px; */
   margin-left: 5px;
   color: #727272;
-  letter-spacing: -.5px;
+  letter-spacing: 1px;
 }
 
 /* Site footer */
@@ -533,3 +533,23 @@ table.blueTable tfoot .links a{
   padding: 2px 8px;
   border-radius: 5px;
 }
+
+/* ADDED BY EGC on 03/15/2023 for publications.. Make sure you change the counter-reset */
+
+ol.bracket {
+  /* set in JS */
+  counter-reset: list 40;
+}
+
+ol.bracket>li {
+  list-style: none;
+  position: relative;
+}
+
+ol.bracket>li:before {
+  counter-increment: list -1;
+  content: "[" counter(list) "]  ";
+  position: absolute;
+  left: -2em;
+}
+
