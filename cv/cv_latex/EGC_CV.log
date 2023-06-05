@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.3.2)  18 MAR 2023 15:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.30)  5 JUN 2023 11:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -83,9 +83,9 @@ Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
 Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
-(babel)             (\language15). Reported on input line 105.
+(babel)             (\language76). Reported on input line 105.
 Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
-(babel)             (\language15). Reported on input line 108.
+(babel)             (\language76). Reported on input line 108.
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/bbding/bbding.sty
 Package: bbding 1999/04/15 v1.01 Dingbats symbols
@@ -931,67 +931,74 @@ Overfull \hbox (87.48271pt too wide) in paragraph at lines 254--264
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 706.
+(hyperref)                removing `\@ifnextchar' on input line 711.
 
 [5]
-Overfull \hbox (2.78204pt too wide) in paragraph at lines 753--756
+Overfull \hbox (2.78204pt too wide) in paragraph at lines 760--763
 \OT1/cmr/m/n/10 Thudiyangal Mithun, R. Carretero-Gonz^^Salez, E.G. Char-alam-pi
 dis, D.S. Hall and P.G. Kevrekidis 
  []
 
 
-Overfull \hbox (1.81293pt too wide) in paragraph at lines 780--784
+Overfull \hbox (1.81293pt too wide) in paragraph at lines 787--791
 []\OT1/cmr/bx/it/10 Nonlinear Lo-cal-ized Modes in Two-Dimensional Hexagonally-
 Packed Mag-netic Lat-
  []
 
 [6]
-Overfull \hbox (29.10457pt too wide) in paragraph at lines 806--810
+Overfull \hbox (29.10457pt too wide) in paragraph at lines 813--817
 []\OT1/cmr/bx/it/10 Stability and re-sponse of trapped soli-tary wave so-lu-tio
 ns of cou-pled non-lin-ear Schr^^?odinger
  []
 
 [7] [8]
-Overfull \hbox (0.43481pt too wide) in paragraph at lines 939--942
+Overfull \hbox (0.43481pt too wide) in paragraph at lines 947--950
 []\OT1/cmr/m/n/10 Colloquium, De-part-ment of Math-e-mat-ics and Statis-tics, A
 mherst Col-lege, Amherst, MA, Febru-
  []
 
 
-Overfull \hbox (4.71268pt too wide) in paragraph at lines 944--946
+Overfull \hbox (4.71268pt too wide) in paragraph at lines 952--954
 []\OT1/cmr/m/n/10 Colloquium, Math-e-mat-ics De-part-ment, Cal-i-for-nia Poly-t
 ech-nic State Uni-ver-sity, San Luis Obispo,
  []
 
 
-Overfull \hbox (4.71268pt too wide) in paragraph at lines 961--963
+Overfull \hbox (4.71268pt too wide) in paragraph at lines 969--971
 []\OT1/cmr/m/n/10 Colloquium, Math-e-mat-ics De-part-ment, Cal-i-for-nia Poly-t
 ech-nic State Uni-ver-sity, San Luis Obispo,
  []
 
 
-Overfull \hbox (4.71268pt too wide) in paragraph at lines 976--978
+Overfull \hbox (4.71268pt too wide) in paragraph at lines 984--986
 []\OT1/cmr/m/n/10 Colloquium, Math-e-mat-ics De-part-ment, Cal-i-for-nia Poly-t
 ech-nic State Uni-ver-sity, San Luis Obispo,
  []
 
 [9]
-Overfull \hbox (4.71268pt too wide) in paragraph at lines 1001--1003
+Overfull \hbox (4.71268pt too wide) in paragraph at lines 1009--1011
 []\OT1/cmr/m/n/10 Colloquium, Math-e-mat-ics De-part-ment, Cal-i-for-nia Poly-t
 ech-nic State Uni-ver-sity, San Luis Obispo,
  []
 
-[10] [11] 
+[10] [11] [12]
+Underfull \hbox (badness 10000) in paragraph at lines 1161--1162
+
+ []
+
+
 AED: lastpage setting LastPage
-[12] (./EGC_CV.aux)
+[13
+
+] (./EGC_CV.aux)
 Package rerunfilecheck Info: File `EGC_CV.out' has not changed.
-(rerunfilecheck)             Checksum: C85702AF6BA4A4D877EE6344050B4926;2666.
+(rerunfilecheck)             Checksum: 0C25F25C6B1D06BA75DE3CB9D05AB101;2830.
  ) 
 Here is how much of TeX's memory you used:
- 26108 strings out of 478287
- 482843 string characters out of 5849290
- 887657 words of memory out of 5000000
- 43763 multiletter control sequences out of 15000+600000
+ 26111 strings out of 478287
+ 482874 string characters out of 5849289
+ 887652 words of memory out of 5000000
+ 43764 multiletter control sequences out of 15000+600000
  474869 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,22n,89p,1038b,954s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1014,10 +1021,10 @@ e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf/fonts/type1/public/
 cm-super/sfrm1000.pfb>
-Output written on EGC_CV.pdf (12 pages, 264017 bytes).
+Output written on EGC_CV.pdf (13 pages, 267271 bytes).
 PDF statistics:
- 334 PDF objects out of 1000 (max. 8388607)
- 281 compressed objects within 3 object streams
- 73 named destinations out of 1000 (max. 500000)
- 149 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 343 PDF objects out of 1000 (max. 8388607)
+ 289 compressed objects within 3 object streams
+ 75 named destinations out of 1000 (max. 500000)
+ 157 words of extra memory for PDF output out of 10000 (max. 10000000)
 
