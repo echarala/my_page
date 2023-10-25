@@ -538,7 +538,7 @@ table.blueTable tfoot .links a{
 
 ol.bracket {
   /* set in JS */
-  counter-reset: list 42;
+  counter-reset: list 43;
 }
 
 ol.bracket>li {
