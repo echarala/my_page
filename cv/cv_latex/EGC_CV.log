@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.14)  2 APR 2024 11:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.14)  15 APR 2024 09:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -934,61 +934,61 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\@ifnextchar' on input line 725.
 
 
-Overfull \hbox (2.78204pt too wide) in paragraph at lines 791--794
+Overfull \hbox (2.78204pt too wide) in paragraph at lines 792--795
 \OT1/cmr/m/n/10 Thudiyangal Mithun, R. Carretero-Gonz^^Salez, E.G. Char-alam-pi
 dis, D.S. Hall and P.G. Kevrekidis 
  []
 
 [6]
-Overfull \hbox (1.81293pt too wide) in paragraph at lines 818--822
+Overfull \hbox (1.81293pt too wide) in paragraph at lines 819--823
 []\OT1/cmr/bx/it/10 Nonlinear Lo-cal-ized Modes in Two-Dimensional Hexagonally-
 Packed Mag-netic Lat-
  []
 
 
-Overfull \hbox (29.10457pt too wide) in paragraph at lines 844--848
+Overfull \hbox (29.10457pt too wide) in paragraph at lines 845--849
 []\OT1/cmr/bx/it/10 Stability and re-sponse of trapped soli-tary wave so-lu-tio
 ns of cou-pled non-lin-ear Schr^^?odinger
  []
 
 [7] [8]
-Overfull \hbox (8.09946pt too wide) in paragraph at lines 964--966
+Overfull \hbox (8.09946pt too wide) in paragraph at lines 965--967
 \OT1/cmr/m/n/10 2024. Talk ti-tle: ``\OT1/cmr/m/it/10 Self-similar col-lapse to
  non-lin-ear dis-per-sive PDEs: A com-pu-ta-tional/bifurcation
  []
 
 [9]
-Overfull \hbox (0.43481pt too wide) in paragraph at lines 1006--1009
+Overfull \hbox (0.43481pt too wide) in paragraph at lines 1007--1010
 []\OT1/cmr/m/n/10 Colloquium, De-part-ment of Math-e-mat-ics and Statis-tics, A
 mherst Col-lege, Amherst, MA, Febru-
  []
 
 
-Overfull \hbox (4.71268pt too wide) in paragraph at lines 1010--1012
+Overfull \hbox (4.71268pt too wide) in paragraph at lines 1011--1013
 []\OT1/cmr/m/n/10 Colloquium, Math-e-mat-ics De-part-ment, Cal-i-for-nia Poly-t
 ech-nic State Uni-ver-sity, San Luis Obispo,
  []
 
 
-Overfull \hbox (4.71268pt too wide) in paragraph at lines 1027--1029
+Overfull \hbox (4.71268pt too wide) in paragraph at lines 1028--1030
 []\OT1/cmr/m/n/10 Colloquium, Math-e-mat-ics De-part-ment, Cal-i-for-nia Poly-t
 ech-nic State Uni-ver-sity, San Luis Obispo,
  []
 
 [10]
-Overfull \hbox (4.71268pt too wide) in paragraph at lines 1042--1044
+Overfull \hbox (4.71268pt too wide) in paragraph at lines 1043--1045
 []\OT1/cmr/m/n/10 Colloquium, Math-e-mat-ics De-part-ment, Cal-i-for-nia Poly-t
 ech-nic State Uni-ver-sity, San Luis Obispo,
  []
 
 
-Overfull \hbox (4.71268pt too wide) in paragraph at lines 1067--1069
+Overfull \hbox (4.71268pt too wide) in paragraph at lines 1068--1070
 []\OT1/cmr/m/n/10 Colloquium, Math-e-mat-ics De-part-ment, Cal-i-for-nia Poly-t
 ech-nic State Uni-ver-sity, San Luis Obispo,
  []
 
 [11] [12] [13]
-Underfull \hbox (badness 10000) in paragraph at lines 1222--1223
+Underfull \hbox (badness 10000) in paragraph at lines 1223--1224
 
  []
 
@@ -1028,7 +1028,7 @@ dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf/fonts/type1/public/cm-super
 /sfrm1000.pfb>
-Output written on EGC_CV.pdf (14 pages, 279247 bytes).
+Output written on EGC_CV.pdf (14 pages, 279637 bytes).
 PDF statistics:
  362 PDF objects out of 1000 (max. 8388607)
  304 compressed objects within 4 object streams
