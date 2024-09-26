@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=latex 2024.9.3)  16 SEP 2024 09:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=latex 2024.9.3)  26 SEP 2024 16:26
 entering extended mode
  restricted \write18 enabled.
  Source specials enabled.
@@ -943,43 +943,43 @@ ions of cou-pled non-lin-ear Schr^^?odinger
  []
 
 [7] [8] [9]
-Overfull \hbox (8.09946pt too wide) in paragraph at lines 997--999
+Overfull \hbox (8.09946pt too wide) in paragraph at lines 1000--1002
 \OT1/cmr/m/n/10 2024. Talk ti-tle: ``\OT1/cmr/m/it/10 Self-similar col-lapse to
  non-lin-ear dis-per-sive PDEs: A com-pu-ta-tional/bifurcation
  []
 
 
-Overfull \hbox (0.43481pt too wide) in paragraph at lines 1039--1042
+Overfull \hbox (0.43481pt too wide) in paragraph at lines 1042--1045
 [][]\OT1/cmr/m/n/10 Colloquium, De-part-ment of Math-e-mat-ics and Statis-tics,
  Amherst Col-lege, Amherst, MA, Febru-
  []
 
 
-Overfull \hbox (4.71268pt too wide) in paragraph at lines 1043--1045
+Overfull \hbox (4.71268pt too wide) in paragraph at lines 1046--1048
 [][]\OT1/cmr/m/n/10 Colloquium, Math-e-mat-ics De-part-ment, Cal-i-for-nia Poly
 -tech-nic State Uni-ver-sity, San Luis Obispo,
  []
 
 [10]
-Overfull \hbox (4.71268pt too wide) in paragraph at lines 1060--1062
+Overfull \hbox (4.71268pt too wide) in paragraph at lines 1063--1065
 [][]\OT1/cmr/m/n/10 Colloquium, Math-e-mat-ics De-part-ment, Cal-i-for-nia Poly
 -tech-nic State Uni-ver-sity, San Luis Obispo,
  []
 
 
-Overfull \hbox (4.71268pt too wide) in paragraph at lines 1075--1077
+Overfull \hbox (4.71268pt too wide) in paragraph at lines 1078--1080
 [][]\OT1/cmr/m/n/10 Colloquium, Math-e-mat-ics De-part-ment, Cal-i-for-nia Poly
 -tech-nic State Uni-ver-sity, San Luis Obispo,
  []
 
 [11]
-Overfull \hbox (4.71268pt too wide) in paragraph at lines 1100--1102
+Overfull \hbox (4.71268pt too wide) in paragraph at lines 1103--1105
 [][]\OT1/cmr/m/n/10 Colloquium, Math-e-mat-ics De-part-ment, Cal-i-for-nia Poly
 -tech-nic State Uni-ver-sity, San Luis Obispo,
  []
 
 [12] [13] [14]
-Underfull \hbox (badness 10000) in paragraph at lines 1255--1256
+Underfull \hbox (badness 10000) in paragraph at lines 1258--1259
 
  []
 
@@ -1000,4 +1000,4 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  84i,23n,89p,1038b,988s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on EGC_CV.dvi (15 pages, 129272 bytes).
+Output written on EGC_CV.dvi (15 pages, 129596 bytes).
