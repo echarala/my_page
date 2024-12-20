@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=latex 2024.10.10)  13 DEC 2024 13:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=latex 2024.10.10)  19 DEC 2024 19:57
 entering extended mode
  restricted \write18 enabled.
  Source specials enabled.
@@ -931,55 +931,55 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\@ifnextchar' on input line 765.
 
 [6]
-Overfull \hbox (2.78204pt too wide) in paragraph at lines 850--853
+Overfull \hbox (2.78204pt too wide) in paragraph at lines 851--854
 \OT1/cmr/m/n/10 Thudiyangal Mithun, R. Carretero-Gonz^^Salez, E.G. Char-alam-pi
 dis, D.S. Hall and P.G. Kevrekidis 
  []
 
 [7]
-Overfull \hbox (1.81293pt too wide) in paragraph at lines 877--881
+Overfull \hbox (1.81293pt too wide) in paragraph at lines 878--882
 [][]\OT1/cmr/bx/it/10 Nonlinear Lo-cal-ized Modes in Two-Dimensional Hexagonall
 y-Packed Mag-netic Lat-
  []
 
 
-Overfull \hbox (29.10457pt too wide) in paragraph at lines 903--907
+Overfull \hbox (29.10457pt too wide) in paragraph at lines 904--908
 [][]\OT1/cmr/bx/it/10 Stability and re-sponse of trapped soli-tary wave so-lu-t
 ions of cou-pled non-lin-ear Schr^^?odinger
  []
 
 [8] [9]
-Overfull \hbox (8.09946pt too wide) in paragraph at lines 1049--1051
+Overfull \hbox (8.09946pt too wide) in paragraph at lines 1050--1052
 \OT1/cmr/m/n/10 2024. Talk ti-tle: ``\OT1/cmr/m/it/10 Self-similar col-lapse to
  non-lin-ear dis-per-sive PDEs: A com-pu-ta-tional/bifurcation
  []
 
 [10]
-Overfull \hbox (0.43481pt too wide) in paragraph at lines 1091--1094
+Overfull \hbox (0.43481pt too wide) in paragraph at lines 1092--1095
 [][]\OT1/cmr/m/n/10 Colloquium, De-part-ment of Math-e-mat-ics and Statis-tics,
  Amherst Col-lege, Amherst, MA, Febru-
  []
 
 
-Overfull \hbox (4.71268pt too wide) in paragraph at lines 1095--1097
+Overfull \hbox (4.71268pt too wide) in paragraph at lines 1096--1098
 [][]\OT1/cmr/m/n/10 Colloquium, Math-e-mat-ics De-part-ment, Cal-i-for-nia Poly
 -tech-nic State Uni-ver-sity, San Luis Obispo,
  []
 
 
-Overfull \hbox (4.71268pt too wide) in paragraph at lines 1112--1114
+Overfull \hbox (4.71268pt too wide) in paragraph at lines 1113--1115
 [][]\OT1/cmr/m/n/10 Colloquium, Math-e-mat-ics De-part-ment, Cal-i-for-nia Poly
 -tech-nic State Uni-ver-sity, San Luis Obispo,
  []
 
 [11]
-Overfull \hbox (4.71268pt too wide) in paragraph at lines 1127--1129
+Overfull \hbox (4.71268pt too wide) in paragraph at lines 1128--1130
 [][]\OT1/cmr/m/n/10 Colloquium, Math-e-mat-ics De-part-ment, Cal-i-for-nia Poly
 -tech-nic State Uni-ver-sity, San Luis Obispo,
  []
 
 
-Overfull \hbox (4.71268pt too wide) in paragraph at lines 1152--1154
+Overfull \hbox (4.71268pt too wide) in paragraph at lines 1153--1155
 [][]\OT1/cmr/m/n/10 Colloquium, Math-e-mat-ics De-part-ment, Cal-i-for-nia Poly
 -tech-nic State Uni-ver-sity, San Luis Obispo,
  []
@@ -1003,4 +1003,4 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  84i,23n,93p,1038b,997s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on EGC_CV.dvi (15 pages, 132640 bytes).
+Output written on EGC_CV.dvi (15 pages, 132996 bytes).
