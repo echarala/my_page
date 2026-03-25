@@ -553,3 +553,7 @@ ol.bracket>li:before {
   left: -2em;
 }
 
+.shift-up {
+  margin-top: 50px;
+}
+
